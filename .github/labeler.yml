@@ -1,0 +1,4 @@
+labels:
+  'matrix':
+    - '\bmatrix\b'
+
